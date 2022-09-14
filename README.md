@@ -172,12 +172,6 @@ The client-hooking & service worker scripts required for UV are located in [ultr
     - `uv.handler.js` Client-side hooking
     - `uv.config.js` Configuration
 
-# Authors
 
-- Caracal.js (Creator of Ultraviolet)
-- Divide (Creator of TOMP)
-
-# Credits
-- https://github.com/tomphttp
 
 
